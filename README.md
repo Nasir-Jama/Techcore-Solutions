@@ -13,8 +13,8 @@ testing and security improvement of an enterprise network
 for a fictional UK-based IT services company, TechCore
 Solutions Ltd.
 
-The project is developed using Cisco Packet Tracer and
-follows a phased approach, starting with a functional
+The project was developed using Cisco Packet Tracer and
+will slowly be built and improved through a series of phases, starting with a functional
 small-business network before introducing more advanced
 enterprise networking and security technologies.
 
@@ -75,25 +75,6 @@ Each phase contains its own:
 - Technical documentation
 - Screenshots and testing evidence
 
-## Current Project
-
-### Phase 01 – Baseline Network
-
-The first phase establishes the foundation of the
-company's network infrastructure.
-
-Implemented features:
-
-- Three departmental networks
-- Router and switch configuration
-- Static IP addressing
-- Wireless connectivity using WPA2
-- Simulated ISP connectivity
-- Interdepartmental communication
-- Shared server access
-- Basic device authentication
-- Connectivity and internet testing
-
 ## Learning Objectives
 
 Through this series, I aim to demonstrate:
@@ -112,10 +93,6 @@ Through this series, I aim to demonstrate:
 
 Refer to the individual phase folders for detailed
 documentation, configurations and implementation evidence.
-
-## Author
-
-Network Engineering & Cybersecurity Portfolio
 
 ## Disclaimer
 
